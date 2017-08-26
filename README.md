@@ -1,6 +1,6 @@
 # Basic Project :+1:
 
-*Structure for creating a Basic Java Project.*
+*Structure for creating a basic automation test using Selenium.*
 
 **Java 7**
 
